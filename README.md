@@ -59,21 +59,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&icon_color=FF79C6&ring_color=FF79C6&include_all_commits=true&count_private=true)" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" /></p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true" />
+</p>
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact)
-
-
-<br/>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/rishikesh8pandey/rishikesh8pandey/output/github-contribution-grid-snake.svg)
-
-
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishikesh8pandey/rishikesh8pandey/output/github-contribution-grid-snake-dark.svg" />
+</p>
