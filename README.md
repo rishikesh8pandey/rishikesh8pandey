@@ -75,3 +75,10 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true" />
+</p>
