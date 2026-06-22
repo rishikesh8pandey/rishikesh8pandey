@@ -14,38 +14,26 @@
 
 ## 💻 Tech Stack
 
-### Programming & Databases
-- Python
-- SQL
-- MongoDB
-- NoSQL
-- DBMS
+## 💻 Tech Stack
 
-### Backend Development
-- Backend Development Basics
-- Flask
-- REST APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data Engineering & Big Data
-- Apache Spark
-- PySpark
-- Apache Kafka
-- Apache Hadoop
-- Data Pipelines
-- ETL Processing
+![SDLC](https://img.shields.io/badge/SDLC-0A66C2?style=for-the-badge&logo=gitbook&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-### Data Analysis
-- Pandas
-- NumPy
-
-### DevOps & Tools
-- Docker
-- Git
-- GitHub
-
-### Software Engineering
-- Software Development Life Cycle (SDLC)
-- System Design Fundamentals
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Backend Basics](https://img.shields.io/badge/Backend%20Basics-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
