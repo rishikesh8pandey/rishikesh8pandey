@@ -67,8 +67,3 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishikesh8pandey/rishikesh8pandey/output/github-contribution-grid-snake.svg" />
-</p>
