@@ -70,3 +70,8 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/rishikesh8pandey/rishikesh8pandey/output/github-contribution-grid-snake.svg)
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6)
