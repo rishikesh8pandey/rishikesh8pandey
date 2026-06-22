@@ -56,11 +56,16 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true)
+![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&icon_color=FF79C6&ring_color=FF79C6&include_all_commits=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact)
+
+
+<br/>
 
 ## 🐍 Contribution Snake
 
