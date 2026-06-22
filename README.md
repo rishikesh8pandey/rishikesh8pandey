@@ -61,3 +61,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/rishikesh8pandey/rishikesh8pandey/output/github-contribution-grid-snake.svg)
