@@ -7,7 +7,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rishikesh8pandey&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rishikesh8pandey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh8pandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-pandey-119064346)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishikesh8pandey)
 
 </div>
@@ -53,6 +53,7 @@
 </table>
 
 <br/>
+---
 
 ## 🛠️ Tech Stack
 
