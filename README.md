@@ -16,14 +16,52 @@
 
 ## 🚀 About Me
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=%22Building+scalable+data+pipelines+%26+real-time+analytics+solutions%22;%22Turning+raw+streams+into+actionable+insights+%E2%9A%A1%22" alt="Quote" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3>🧑‍💻 Who Am I?</h3>
+
+🎯 &nbsp;<strong>Data Engineering Intern</strong> at <strong>Lumiq</strong>, India<br/>
+📍 &nbsp;Based in <strong>India 🇮🇳</strong><br/>
+🔭 &nbsp;Building a <strong>Real-Time Crypto Analytics Platform</strong><br/>
+🌱 &nbsp;Learning <strong>Cloud-Native Tech</strong> & <strong>Scalable Pipelines</strong><br/>
+💬 &nbsp;Ask me about <strong>Kafka, Spark, Data Engineering</strong><br/>
+🤝 &nbsp;Open to <strong>Data Engineering</strong> opportunities<br/>
+⚡ &nbsp;<em>I turn raw streams into insights!</em>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>📊 Current Focus</h3>
+
+🌊 &nbsp;<strong>Streaming:</strong> Apache Kafka + PySpark<br/>
+🗄️ &nbsp;<strong>Storage:</strong> Delta Lake + PostgreSQL + Parquet<br/>
+☁️ &nbsp;<strong>Platform:</strong> Databricks + Snowflake<br/>
+🐳 &nbsp;<strong>DevOps:</strong> Docker + Git<br/>
+📊 &nbsp;<strong>Analytics:</strong> Grafana + Pandas<br/>
+🚀 &nbsp;<strong>Goal:</strong> Production-Grade Data Pipelines
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ```python
 class RishikeshPandey:
-    role       = "Data Engineering Intern @ Lumiq"
-    location   = "India 🇮🇳"
-    focus      = ["Real-Time Pipelines", "Big Data", "Distributed Systems", "Cloud"]
-    learning   = ["Scalable Data Pipelines", "Cloud-Native Technologies"]
-    open_to    = ["Data Engineering", "Backend Development"]
-    fun_fact   = "I turn raw streams into insights ⚡"
+    role     = "Data Engineering Intern @ Lumiq"
+    location = "India 🇮🇳"
+    focus    = ["Real-Time Pipelines", "Big Data", "Distributed Systems", "Cloud"]
+    learning = ["Scalable Data Pipelines", "Cloud-Native Technologies"]
+    open_to  = ["Data Engineering", "Backend Development"]
+    fun_fact = "I turn raw streams into insights ⚡"
 ```
 
 ---
@@ -100,19 +138,13 @@ class RishikeshPandey:
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true&mode=weekly" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishikesh8pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=rishikesh8pandey&theme=tokyonight&hide_border=true&mode=weekly&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
 <br/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rishikesh8pandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh8pandey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
 
 </div>
 
@@ -122,7 +154,7 @@ class RishikeshPandey:
 
 <div align="center">
 
-[![Rishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishikesh8pandey&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishikesh8pandey&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
