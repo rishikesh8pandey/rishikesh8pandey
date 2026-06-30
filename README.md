@@ -53,7 +53,6 @@
 </table>
 
 <br/>
----
 
 ## 🛠️ Tech Stack
 
