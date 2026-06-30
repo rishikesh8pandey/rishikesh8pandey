@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=%22Building+scalable+data+pipelines+%26+real-time+analytics+solutions%22;%22Turning+raw+streams+into+actionable+insights+%E2%9A%A1%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%22Building+scalable+data+pipelines+%26+real-time+analytics+solutions%22;%22Turning+raw+streams+into+actionable+insights+%E2%9A%A1%22" alt="Quote" />
 </div>
 
 <br/>
