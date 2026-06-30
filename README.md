@@ -53,17 +53,6 @@
 </table>
 
 <br/>
-
-```python
-class RishikeshPandey:
-    role     = "Data Engineering Intern @ Lumiq"
-    location = "India 🇮🇳"
-    focus    = ["Real-Time Pipelines", "Big Data", "Distributed Systems", "Cloud"]
-    learning = ["Scalable Data Pipelines", "Cloud-Native Technologies"]
-    open_to  = ["Data Engineering", "Backend Development"]
-    fun_fact = "I turn raw streams into insights ⚡"
-```
-
 ---
 
 ## 🛠️ Tech Stack
